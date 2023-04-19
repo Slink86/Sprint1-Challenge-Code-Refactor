@@ -6,22 +6,30 @@ Sprint 1 Challenge - Code Refactor
 First Challenge in course to simulate "On-the-job Ticketing"
 
 - Technical
-    Review CSS Stylesheet
-        Link Funtionality
-        Consolidate CSS Properties
-        Add CSS Comments
+    <ul>
+     <li>Review CSS Stylesheet</li>
+     <li>Link Funtionality</li>
+     <li>Consolidate CSS Properties</li>
+     <li>Add CSS Comments</li>
+     </ul>
 - Deployment
-    Deploy Live URL
-    Load with no errors
-    Submit Github URL
-    Repo Contains app code
+    <ul>
+     <li>Deploy Live URL</li>
+     <li>Load with no errors</li>
+     <li>Submit Github URL</li>
+     <li>Repo Contains app code</li>
+    </ul>
 - Application Quality
-    Resemalance to Mock-up provided in instructions
+    <ul>
+     <li>Resemalance to Mock-up provided in instructions</li>
+    </ul>
 - Repo Quality
-    Unique Name
-    Best Practices
-    Descriptive Commit messages
-    Contains README file
+    <ul>
+     <li>Unique Name</li>
+     <li>Best Practices</li>
+     <li>Descriptive Commit messages</li>
+     <li>Contains README file</li>
+    </ul>
 
 ## Screenshot
 
