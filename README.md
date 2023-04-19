@@ -30,9 +30,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![screenshot of deployed page](Assets/images/Screenshot.PNG)
     ```
 
 ## Depoloyed App Link
 
-Link to Deployed Site: 
+Link to Deployed Site: https://slink86.github.io/Sprint1-Challenge-Code-Refactor/
