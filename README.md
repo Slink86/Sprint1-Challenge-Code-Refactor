@@ -25,13 +25,8 @@ First Challenge in course to simulate "On-the-job Ticketing"
 
 ## Screenshot
 
-Provide instructions and examples for use. Include screenshots as needed.
+![screenshot of deployed page](Assets/images/Screenshot.PNG)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![screenshot of deployed page](Assets/images/Screenshot.PNG)
-    ```
 
 ## Depoloyed App Link
 
